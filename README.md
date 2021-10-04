@@ -6,17 +6,17 @@ The purpose of the analysis was to determine the bias of paid vs unpaid reviews 
 
 ## Results:
 
-How many Vine(Paid) reviews and non-Vine(Nonpaid) reviews were there?
+How many Vine(Paid) reviews and non-Vine(Unpaid) reviews were there?
 
 ![Total number of reviews](https://user-images.githubusercontent.com/82718969/135936263-7e415d51-e48f-49ec-9806-553cf15fac28.png)
 
 
-How many Vine(Paid) reviews and non-Vine(Nonpaid) reviews were 5 stars?
+How many Vine(Paid) reviews and non-Vine(Unpaid) reviews were 5 stars?
 
 ![Number of 5-star reviews](https://user-images.githubusercontent.com/82718969/135936247-6f253206-59b8-421b-95ad-a0f8130d3668.png)
 
 
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+What percentage of Vine(Paid) reviews were 5 stars? What percentage of non-Vine(Unpaid) reviews were 5 stars?
 
 ![Percentage of 5-star reviews](https://user-images.githubusercontent.com/82718969/135936252-c76a7e3c-6312-497e-a170-c4902c70bd5e.png)
 
