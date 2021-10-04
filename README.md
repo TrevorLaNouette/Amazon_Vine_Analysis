@@ -22,4 +22,4 @@ What percentage of Vine(Paid) reviews were 5 stars? What percentage of non-Vine(
 
 
 ## Summary:
-My data did not contain any bias as pertaining to paid vs unpaid reviews as there were not paid reviews in the data set. Additional analysis on other categories of amazon products that contain paid reviews would need to be conducted to determine if the paid vs unpaid average review (star rating) differ significantly.
+My data did not contain any bias as pertaining to paid vs unpaid reviews as there were no paid reviews in the data set. Additional analysis of other product categories that contain paid reviews would need to be conducted to determine if paid vs unpaid bias towards average review (star rating) exhist.
